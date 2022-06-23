@@ -1,0 +1,1 @@
+Access the application on http://myuda-AppLo-14HO13ZISKUUY-291692978.us-east-1.elb.amazonaws.com
